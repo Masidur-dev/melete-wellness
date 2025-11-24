@@ -14,4 +14,6 @@ const improveSectionEl = document.querySelector(".improve-section")
 const pricingLightSectionEl = document.querySelector(".pricing-light-section")
 const testimonialSectionEl = document.querySelector(".testimonial-section")
 const appointmentSectionEl = document.querySelector(".appointment-section")
-const formContainerEl = document.querySelector(".form-container")
+const formRowEl = document.querySelector(".form-row")
+
+
