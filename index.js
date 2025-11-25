@@ -16,7 +16,9 @@ const testimonialSectionEl = document.querySelector(".testimonial-section")
 const appointmentSectionEl = document.querySelector(".appointment-section")
 const formRowEl = document.querySelector(".form-row")
 const formGroupEl = document.querySelector(".form-group")
-const formRowEl = document.querySelector(".form-row")
+const infoContainerEl = document.querySelector(".info-container")
+
+
 
 
 
