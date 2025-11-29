@@ -21,6 +21,8 @@ const infoListEl = document.querySelector(".info-list")
 const footerEl = document.querySelector(".footer") 
 const footerContainerEl = document.querySelector(".footer-container") 
 const footerTopEl = document.querySelector(".footer-top") 
+const footerBrandEl = document.querySelector(".footer-brand")
+
 
 
 
