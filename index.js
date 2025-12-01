@@ -23,6 +23,7 @@ const footerContainerEl = document.querySelector(".footer-container")
 const footerTopEl = document.querySelector(".footer-top") 
 const footerBrandEl = document.querySelector(".footer-brand")
 const newsLetterFormEl = document.querySelector(".newsletter-form")
+const footerColumnEl = document.querySelector(".footer-column")
 
 
 
